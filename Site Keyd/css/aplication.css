@@ -1,0 +1,97 @@
+body{
+  width: 90%;
+  margin: auto;
+  background-color: black;
+  font-family: 04b;
+  color: black;
+  line-height: 1.5;
+  }
+
+  @font-face {
+    font: 04b;
+    src: url('04b.ttf')format('embedded-opentype');
+  }
+
+.Caixa1{
+  background: orange;
+  padding: 50px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.Caixa2{
+  background: orange;
+  padding: 50px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.Sol {
+  text-align: center;
+}
+.Tema{
+  text-align: center;
+  color: orange;
+}
+
+.Circulo{
+ text-align: center;
+  margin-top: auto;
+  width: 230px;
+  height: 230px;
+  color: black;
+  background: orange;
+  border-radius: 50%;
+  float: left;
+}
+
+/*Subway*/
+
+body{
+  width: 90%;
+  margin: auto;
+  background-color: black;
+  font-family: cursive;
+  color: black;
+  line-height: 1.5;
+  }
+
+.Tema3{
+  background: orange;
+  padding: 50px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.Caixa123{
+  background: orange;
+  padding: 50px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.Sol {
+  text-align: center;
+}
+.Tema{
+  text-align: center;
+  color: orange;
+}
+
+.Caixa1234{
+  text-align: center;
+  color: black;
+  background: orange;
+  padding: 50px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.Caixa12345{
+  text-align: center;
+  color: black;
+  background: orange;
+  padding: 50px;
+  margin-top: 50px;
+  border-radius: 10px;
+}

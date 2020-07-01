@@ -1,0 +1,149 @@
+body{
+  width: 90%;
+  margin: auto;
+  background-color: black;
+  font-family:sans-serif;
+  color: black;
+  line-height: 1.5;
+  }
+
+  .Sol{
+    text-align: center;
+  }
+
+  .Tema{
+    text-align: center;
+    color: orange;
+    font-family: cursive;
+  }
+
+  .Caixa1{
+    text-align: center;
+    background: orange;
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+
+.Texto1{
+  text-align: center;
+  padding: -20px;
+  font-family: cursive;
+}
+
+.Nos{
+  margin-left: 280px;
+  margin-top: 200px;
+}
+
+.a{
+  margin-top: -150px;
+  display: table-cell;
+  float: left;
+  width: 100px;
+  margin-left: -100px;
+}
+
+.b{
+  margin-top: -150px;
+  display: table-cell;
+  float: left;
+  width: 100px;
+  margin-left: 50px;
+}
+
+.c{
+  margin-top: -150px;
+  display: table-cell;
+  float: left;
+  width: 100px;
+  margin-left: 50px;
+}
+
+.d{
+  margin-top: -150px;
+  display: table-cell;
+  float: left;
+  margin-left: 50px;
+  width: 100px;
+}
+
+.e{
+  margin-top: -150px;
+  display: table-cell;
+  float: left;
+  margin-left: 50px;
+  width: 100px;
+}
+
+  .Caixa2{
+  text-align: center;
+  background: orange;
+  padding: 30px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+.Texto2{
+  float: right;
+  width: 500px;
+  margin-top: 30px;
+  margin-left: 50px;
+  font-family: cursive;
+}
+
+.desenvolvimento{
+  max-width:100px;
+  max-height: 300px;
+}
+
+.Caixa3{
+  text-align: center;
+  background: orange;
+  padding: 50px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.Texto3{
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  font-family: cursive;
+}
+
+.video{
+  resize: horizontal;
+  overflow: auto;
+}
+
+.Credito{
+  color: orange;
+  text-align: center;
+  font-family: cursive;
+
+}
+
+.Credito1{
+    display: table-cell;
+    float: left;
+    width: 100px;
+    margin-left: 150px;
+}
+
+.Credito2{
+    display: table-cell;
+    float: left;
+    width: 100px;
+    margin-left: 150px;
+}
+
+.Credito3{
+    display: table-cell;
+    float: left;
+    width: 100px;
+    margin-left: 150px;
+}
+
+/*Subway*/
